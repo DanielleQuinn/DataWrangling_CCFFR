@@ -16,9 +16,10 @@ This repository contains the materials used in the 2 January 2020 Data Wrangling
 5. Unzip these files into a folder on your Desktop called "DataWrangling_CCFFR"  
 
 ### File Descriptions:  
-**KingsCreekFishSurveys.csv** is the data that will be used for this workshop  
+**KingsCreekFishSurveys.csv** and **KingsCreek_2016.csv** are the data that will be used for this workshop  
 **workshopcode_BLANK.R** includes an outline and can be used to code along with the instructor (recommended)  
 **workshopcode.R** includes notes and code  
+**species_names.csv** will be used as a reference table to incorporate scientific name into the 2016 data  
 
 #### Data Sources  
 *The data used in this workshop is a modified version of the publicly avilable data cited below. It is used only as a teaching tool and the modifications and/or use of this data for the purpose of this workshop is not representative of the original data or its intentions.*  
