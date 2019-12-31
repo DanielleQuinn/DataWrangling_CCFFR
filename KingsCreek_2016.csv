@@ -1,0 +1,127 @@
+day,month,year,habitat,common_name,A,C,D,E
+10,5,2016,pool,Bluegill,0,0,NA,0
+10,5,2016,pool,Bluntnose Minnow,0,0,NA,0
+10,5,2016,pool,Carmine Shiner,0,0,NA,0
+10,5,2016,pool,Central Stoneroller,38,0,NA,4
+10,5,2016,pool,Common Shiner,0,0,NA,0
+10,5,2016,pool,Creek Chub,11,0,NA,1
+10,5,2016,pool,Fathead Minnow,0,0,NA,0
+10,5,2016,pool,Green Sunfish,0,0,NA,0
+10,5,2016,pool,Johnny Darter,0,0,NA,0
+10,5,2016,pool,Longear Sunfish,0,0,NA,0
+10,5,2016,pool,Orangespotted Sunfish,0,0,NA,0
+10,5,2016,pool,Orangethroated Darter,8,2,NA,3
+10,5,2016,pool,Red Shiner,0,0,NA,0
+10,5,2016,pool,Ringed Crayfish,0,4,NA,3
+10,5,2016,pool,Sand Shiner,0,0,NA,0
+10,5,2016,pool,Slender Madtom,0,0,NA,0
+10,5,2016,pool,Southern Redbelly Dace,62,42,NA,8
+10,5,2016,pool,Suckermouth Minnows,0,0,NA,0
+10,5,2016,pool,Water Nymph Crayfish,4,4,NA,6
+10,5,2016,pool,Western Mosquitofish,0,0,NA,0
+10,5,2016,pool,White Sucker,1,0,NA,0
+10,5,2016,riffle,Bluegill,0,NA,NA,NA
+10,5,2016,riffle,Bluntnose Minnow,0,NA,NA,NA
+10,5,2016,riffle,Carmine Shiner,0,NA,NA,NA
+10,5,2016,riffle,Central Stoneroller,0,NA,NA,NA
+10,5,2016,riffle,Common Shiner,0,NA,NA,NA
+10,5,2016,riffle,Creek Chub,0,NA,NA,NA
+10,5,2016,riffle,Fathead Minnow,0,NA,NA,NA
+10,5,2016,riffle,Green Sunfish,0,NA,NA,NA
+10,5,2016,riffle,Johnny Darter,0,NA,NA,NA
+10,5,2016,riffle,Longear Sunfish,0,NA,NA,NA
+10,5,2016,riffle,Orangespotted Sunfish,0,NA,NA,NA
+10,5,2016,riffle,Orangethroated Darter,27,NA,NA,NA
+10,5,2016,riffle,Red Shiner,0,NA,NA,NA
+10,5,2016,riffle,Ringed Crayfish,1,NA,NA,NA
+10,5,2016,riffle,Sand Shiner,0,NA,NA,NA
+10,5,2016,riffle,Slender Madtom,0,NA,NA,NA
+10,5,2016,riffle,Southern Redbelly Dace,1,NA,NA,NA
+10,5,2016,riffle,Suckermouth Minnows,0,NA,NA,NA
+10,5,2016,riffle,Water Nymph Crayfish,0,NA,NA,NA
+10,5,2016,riffle,Western Mosquitofish,0,NA,NA,NA
+10,5,2016,riffle,White Sucker,0,NA,NA,NA
+15,11,2016,pool,Bluegill,0,0,NA,0
+15,11,2016,pool,Bluntnose Minnow,0,0,NA,0
+15,11,2016,pool,Carmine Shiner,0,0,NA,0
+15,11,2016,pool,Central Stoneroller,63,5,NA,206
+15,11,2016,pool,Common Shiner,11,0,NA,0
+15,11,2016,pool,Creek Chub,34,0,NA,37
+15,11,2016,pool,Fathead Minnow,0,0,NA,0
+15,11,2016,pool,Green Sunfish,1,0,NA,0
+15,11,2016,pool,Johnny Darter,3,0,NA,0
+15,11,2016,pool,Longear Sunfish,0,0,NA,0
+15,11,2016,pool,Orangespotted Sunfish,0,0,NA,0
+15,11,2016,pool,Orangethroated Darter,41,2,NA,36
+15,11,2016,pool,Red Shiner,1,0,NA,0
+15,11,2016,pool,Ringed Crayfish,0,0,NA,1
+15,11,2016,pool,Sand Shiner,0,0,NA,0
+15,11,2016,pool,Slender Madtom,0,0,NA,0
+15,11,2016,pool,Southern Redbelly Dace,624,17,NA,98
+15,11,2016,pool,Suckermouth Minnows,0,0,NA,0
+15,11,2016,pool,Water Nymph Crayfish,0,0,NA,2
+15,11,2016,pool,Western Mosquitofish,1,0,NA,0
+15,11,2016,pool,White Sucker,3,0,NA,0
+15,11,2016,riffle,Bluegill,0,NA,NA,NA
+15,11,2016,riffle,Bluntnose Minnow,0,NA,NA,NA
+15,11,2016,riffle,Carmine Shiner,0,NA,NA,NA
+15,11,2016,riffle,Central Stoneroller,3,NA,NA,NA
+15,11,2016,riffle,Common Shiner,0,NA,NA,NA
+15,11,2016,riffle,Creek Chub,0,NA,NA,NA
+15,11,2016,riffle,Fathead Minnow,0,NA,NA,NA
+15,11,2016,riffle,Green Sunfish,0,NA,NA,NA
+15,11,2016,riffle,Johnny Darter,0,NA,NA,NA
+15,11,2016,riffle,Longear Sunfish,0,NA,NA,NA
+15,11,2016,riffle,Orangespotted Sunfish,0,NA,NA,NA
+15,11,2016,riffle,Orangethroated Darter,16,NA,NA,NA
+15,11,2016,riffle,Red Shiner,0,NA,NA,NA
+15,11,2016,riffle,Ringed Crayfish,0,NA,NA,NA
+15,11,2016,riffle,Sand Shiner,0,NA,NA,NA
+15,11,2016,riffle,Slender Madtom,0,NA,NA,NA
+15,11,2016,riffle,Southern Redbelly Dace,0,NA,NA,NA
+15,11,2016,riffle,Suckermouth Minnows,0,NA,NA,NA
+15,11,2016,riffle,Water Nymph Crayfish,0,NA,NA,NA
+15,11,2016,riffle,Western Mosquitofish,0,NA,NA,NA
+15,11,2016,riffle,White Sucker,0,NA,NA,NA
+17,8,2016,pool,Bluegill,0,0,0,0
+17,8,2016,pool,Bluntnose Minnow,0,0,0,0
+17,8,2016,pool,Carmine Shiner,1,0,0,0
+17,8,2016,pool,Central Stoneroller,54,8,0,68
+17,8,2016,pool,Common Shiner,4,0,0,0
+17,8,2016,pool,Creek Chub,53,5,0,28
+17,8,2016,pool,Fathead Minnow,0,0,0,0
+17,8,2016,pool,Green Sunfish,2,0,0,0
+17,8,2016,pool,Johnny Darter,10,0,0,0
+17,8,2016,pool,Longear Sunfish,0,0,0,0
+17,8,2016,pool,Orangespotted Sunfish,0,0,0,0
+17,8,2016,pool,Orangethroated Darter,38,6,0,24
+17,8,2016,pool,Red Shiner,0,0,0,0
+17,8,2016,pool,Ringed Crayfish,11,3,0,4
+17,8,2016,pool,Sand Shiner,0,0,0,0
+17,8,2016,pool,Slender Madtom,2,0,0,0
+17,8,2016,pool,Southern Redbelly Dace,556,9,0,97
+17,8,2016,pool,Suckermouth Minnows,0,0,0,0
+17,8,2016,pool,Water Nymph Crayfish,8,14,2,5
+17,8,2016,pool,Western Mosquitofish,0,0,0,0
+17,8,2016,pool,White Sucker,1,0,0,0
+17,8,2016,riffle,Bluegill,0,NA,NA,NA
+17,8,2016,riffle,Bluntnose Minnow,0,NA,NA,NA
+17,8,2016,riffle,Carmine Shiner,0,NA,NA,NA
+17,8,2016,riffle,Central Stoneroller,2,NA,NA,NA
+17,8,2016,riffle,Common Shiner,0,NA,NA,NA
+17,8,2016,riffle,Creek Chub,1,NA,NA,NA
+17,8,2016,riffle,Fathead Minnow,0,NA,NA,NA
+17,8,2016,riffle,Green Sunfish,0,NA,NA,NA
+17,8,2016,riffle,Johnny Darter,0,NA,NA,NA
+17,8,2016,riffle,Longear Sunfish,0,NA,NA,NA
+17,8,2016,riffle,Orangespotted Sunfish,0,NA,NA,NA
+17,8,2016,riffle,Orangethroated Darter,14,NA,NA,NA
+17,8,2016,riffle,Red Shiner,0,NA,NA,NA
+17,8,2016,riffle,Ringed Crayfish,7,NA,NA,NA
+17,8,2016,riffle,Sand Shiner,0,NA,NA,NA
+17,8,2016,riffle,Slender Madtom,0,NA,NA,NA
+17,8,2016,riffle,Southern Redbelly Dace,2,NA,NA,NA
+17,8,2016,riffle,Suckermouth Minnows,0,NA,NA,NA
+17,8,2016,riffle,Water Nymph Crayfish,0,NA,NA,NA
+17,8,2016,riffle,Western Mosquitofish,0,NA,NA,NA
+17,8,2016,riffle,White Sucker,0,NA,NA,NA
