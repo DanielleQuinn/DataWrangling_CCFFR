@@ -9,7 +9,7 @@ This repository contains the materials used in the 2 January 2020 Data Wrangling
 
 *Note that if you have separate user and admin accounts, you should run the installers as administrator (right-click on .exe file and select "Run as administrator" instead of double-clicking). Otherwise problems may occur later, for example when installing R packages.*  
 
-3. Install the required packages using install.packages("tidyverse"). This will require an Internet connection.    
+3. Install the required packages using **install.packages("tidyverse")**. This will require an Internet connection.    
 
 4. Download the files contained in [the current repository](https://github.com/DanielleQuinn/DataWrangling_CCFFR) by clicking the green button that says "Clone or Download" and selecting "Download ZIP".  
 
