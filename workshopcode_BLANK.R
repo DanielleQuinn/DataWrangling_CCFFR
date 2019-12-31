@@ -179,18 +179,17 @@ data_tb %>%
 # ---- Manipulating Data with {dplyr} ----
 # dplyr::mutate() : create a new column
 
-# Goal: Create a column called area, containing simulated sampling areas
-# generated using rnorm()
-
-
+# Goal: Create a column called collector
 
 
 # To make this change permanent, overwrite the data frame
 
 
-# dplyr::mutate() : create a new column based on another column
+# mutate() : create a new column based on another column
 
-# Example: Create a column called density
+# Goal: Create a column called density, assuming each 
+# record represents 100m^2
+
 
 
 # Goal: Create a column called "present", that contains TRUE if a

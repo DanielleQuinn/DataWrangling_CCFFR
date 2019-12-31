@@ -232,23 +232,20 @@ data_tb %>%
 # ---- Manipulating Data with {dplyr} ----
 # dplyr::mutate() : create a new column
 
-# Goal: Create a column called area, containing simulated sampling areas
-# generated using rnorm()
-set.seed(123) # This ensures that we all "randomly" generate the same values
-myareas <- rnorm(n = nrow(data_tb), mean = 100, sd = 20)
-
+# Goal: Create a column called collector
 data_tb %>%
-  mutate(area = myareas)
+  mutate(collector = "Danielle")
 
 # To make this change permanent, overwrite the data frame
 data_tb <- data_tb %>%
-  mutate(area = myareas)
+  mutate(collector = "Danielle")
 
 # mutate() : create a new column based on another column
 
-# Goal: Create a column called density
+# Goal: Create a column called density, assuming each 
+# record represents 100m^2
 data_tb <- data_tb %>%
-  mutate(density = count / area)
+  mutate(density = count / 100)
 
 glimpse(data_tb)
 
